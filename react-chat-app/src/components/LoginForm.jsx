@@ -56,6 +56,11 @@ const LoginForm = () => {
             </button>
           </div>
           <h2 className="error">{error}</h2>
+          <h3>Test user 1: </h3> <h4>test1</h4>
+          <h3>Test password 1:</h3><h4>test1</h4>
+          <hr/>
+          <h3>Test user 2: </h3> <h4>test2</h4>
+          <h3>Test password 2:</h3><h4>test2</h4>
         </form>
       </div>
     </div>
